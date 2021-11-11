@@ -1,0 +1,23 @@
+<paquet
+	prefix="inclusifclassique"
+	categorie="communication"
+	version="1.0.0"
+	etat="stable"
+	compatibilite="[3.2.0;4.0.*]"
+	logo="images/inclusifclassique-32.png"
+	documentation="https://github.com/jpyrat/spip_inclusif_classique"
+>
+
+	<nom>SPIP en français inclusif classique</nom>
+	<!-- Un plugin SPIP pour retrouver une langue française naturellement inclusive -->
+
+	<auteur lien="https://contrib.spip.net/RealET">RealET</auteur>
+
+	<copyright>2021</copyright>
+
+	<licence lien="http://www.gnu.org/licenses/gpl-3.0.html">GPL 3</licence>
+	
+	<utilise nom="formidable" />
+	<utilise nom="saisies" />
+	<utilise nom="soyezcreateurs" />
+</paquet>
