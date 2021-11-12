@@ -1,9 +1,9 @@
 <paquet
 	prefix="inclusifclassique"
 	categorie="communication"
-	version="1.0.0"
+	version="1.0.1"
 	etat="stable"
-	compatibilite="[3.2.0;4.0.*]"
+	compatibilite="[3.2.0;4.1.*]"
 	logo="images/inclusifclassique-32.png"
 	documentation="https://github.com/jpyrat/spip_inclusif_classique"
 >
@@ -20,4 +20,13 @@
 	<utilise nom="formidable" />
 	<utilise nom="saisies" />
 	<utilise nom="soyezcreateurs" />
+	<utilise nom="bouspip" />
+	<utilise nom="dons" />
+	<utilise nom="informerpremiereconnexion" />
+	<utilise nom="minus" />
+	<utilise nom="pensebete" />
+	<utilise nom="escal" />
+	<utilise nom="sarkaspip" />
+	<utilise nom="galactic_contrib" />
+	<utilise nom="contrib" />
 </paquet>
