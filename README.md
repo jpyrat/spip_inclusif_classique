@@ -19,9 +19,9 @@ En respectant la grammaire française qui comporte un neutre grammatical :
 * soit que l'écriture soit disant inclusive disparaisse d'elle-même
 * soit que SPIP intègre 2 langues distinctes, le français respectant la grammaire par défaut, et l'écriture inclusive à choisir volontairement (un peu comme la réforme de l'orthographe de 1995 qui n'est pas activée par défaut dans les correcteurs)
 
-# En évitant de tomber dans un eccueil contre productif
+# En évitant de tomber dans un ecueil contre productif
 
-Le bon sens nous permet de faire la distinction entre le genre grammatical et notre identité sexué. De la même manière que nous ne confondons pas Pierre avec un rocher ou Rose avec une fleur.
+Le bon sens nous permet de faire la distinction entre le genre grammatical et notre sexe biologique. De la même manière que nous ne confondons pas Pierre avec un rocher ou Rose avec une fleur.
 
 De la même manière, lorsque nous vouvoyons une personne, ça ne la désigne pas au pluriel.
 
