@@ -19,7 +19,7 @@ En respectant la grammaire française qui comporte un neutre grammatical :
 * soit que l'écriture soit disant inclusive disparaisse d'elle-même
 * soit que SPIP intègre 2 langues distinctes, le français respectant la grammaire par défaut, et l'écriture inclusive à choisir volontairement (un peu comme la réforme de l'orthographe de 1995 qui n'est pas activée par défaut dans les correcteurs)
 
-# En évitant de tomber dans un ecueil contre productif
+# En évitant de tomber dans un ecueil contre-productif
 
 Le bon sens nous permet de faire la distinction entre le genre grammatical et notre sexe biologique. De la même manière que nous ne confondons pas Pierre avec un rocher ou Rose avec une fleur.
 
@@ -29,8 +29,8 @@ Toute personne afirmant le contraire est dans un déni de réalité associé à 
 
 Dans ces traductions, nous chercherons donc à utiliser les mots les plus précis possibles, en évitant les formulations :
 * épicènes (« les humains » n'a pas le même sens que « les hommes »)
-* les doublets : les auteurs désignent tout le monde, pas la peine de précises et les autrices
-* les périphrases : les personnes ayant un rôle éditorial est une définition pour les auteurs, pas une formulation à utiliser dans un texte
+* les doublets : « les auteurs » désignent tout le monde, pas la peine de préciser « et les autrices »
+* les périphrases : « les personnes ayant un rôle éditorial » est une définition pour les auteurs, pas une formulation à utiliser dans un texte
 
 L'écriture inclusive sous ses formes sans point médiant est un cheval de troie pour ce dernier. Ne tombons pas dans le piège !
 
