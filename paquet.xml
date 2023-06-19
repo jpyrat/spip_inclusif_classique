@@ -1,7 +1,7 @@
 <paquet
 	prefix="inclusifclassique"
 	categorie="communication"
-	version="1.0.1"
+	version="1.0.2"
 	etat="stable"
 	compatibilite="[3.2.0;4.1.*]"
 	logo="images/inclusifclassique-32.png"
@@ -13,20 +13,22 @@
 
 	<auteur lien="https://contrib.spip.net/RealET">RealET</auteur>
 
-	<copyright>2021</copyright>
+	<copyright>2021-2023</copyright>
 
 	<licence lien="http://www.gnu.org/licenses/gpl-3.0.html">GPL 3</licence>
-	
-	<utilise nom="formidable" />
-	<utilise nom="saisies" />
-	<utilise nom="soyezcreateurs" />
+
 	<utilise nom="bouspip" />
+	<utilise nom="contrib" />
 	<utilise nom="dons" />
+	<utilise nom="escal" />
+	<utilise nom="formidable" />
+	<utilise nom="galactic_contrib" />
+	<utilise nom="import_ics" />
 	<utilise nom="informerpremiereconnexion" />
+	<utilise nom="mailsubscribers" />
 	<utilise nom="minus" />
 	<utilise nom="pensebete" />
-	<utilise nom="escal" />
+	<utilise nom="saisies" />
 	<utilise nom="sarkaspip" />
-	<utilise nom="galactic_contrib" />
-	<utilise nom="contrib" />
+	<utilise nom="soyezcreateurs" />
 </paquet>

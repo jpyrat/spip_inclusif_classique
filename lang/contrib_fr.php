@@ -7,7 +7,7 @@ if (!defined('_ECRIRE_INC_VERSION')) {
 
 $GLOBALS[$GLOBALS['idx_lang']] = array(
 
-	'inscription_username_label'              => 'Nom d\'utilisateur ou d\'utilisatrice',
-	'inscription_ajout_ok_message'            => 'L\'inscription a bien été prise en compte. Un administrateur ou une administratrice va s\'en occuper rapidement et vous recevrez un email pour vous avertir de la mise à disposition de votre compte.',
+	'inscription_username_label'              => 'Nom d\'utilisateur',
+	'inscription_ajout_ok_message'            => 'L\'inscription a bien été prise en compte. Un administrateur va s\'en occuper rapidement et vous recevrez un email pour vous avertir de la mise à disposition de votre compte.',
 
 );

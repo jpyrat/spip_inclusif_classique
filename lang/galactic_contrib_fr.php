@@ -7,6 +7,6 @@ if (!defined('_ECRIRE_INC_VERSION')) {
 
 $GLOBALS[$GLOBALS['idx_lang']] = array(
 
-	'info_auteurs' => 'Contributeurs et contributrices',
+	'info_auteurs' => 'Contributeurs',
 
 );
