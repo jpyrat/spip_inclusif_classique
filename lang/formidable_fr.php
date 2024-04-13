@@ -6,6 +6,9 @@ if (!defined('_ECRIRE_INC_VERSION')) {
 
 $GLOBALS[$GLOBALS['idx_lang']] = array(
 
+	'traiter_email_destinataires_auteurs_label' => 'Auteurs destinataires',
+	'traiter_email_option_courriel_envoyeur_accuse_label' => 'Adresse d’envoi de l’accusé de réception',
+	'traiter_email_option_nom_envoyeur_accuse_label' => 'Nom pour l’envoi de l’accusé de réception',
 	'traiter_enregistrement_option_auteur_explication' => 'Chaque formulaire se verra attribuer des auteurs. Si cette option est activée, seules ces personnes pourront accéder aux réponses du formulaire.',
 
 );

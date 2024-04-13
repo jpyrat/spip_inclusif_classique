@@ -1,9 +1,9 @@
 <paquet
 	prefix="inclusifclassique"
 	categorie="communication"
-	version="1.0.3"
+	version="1.0.4"
 	etat="stable"
-	compatibilite="[3.2.19;4.2.*]"
+	compatibilite="[3.2.19;4.*.*]"
 	logo="images/inclusifclassique-32.png"
 	documentation="https://github.com/jpyrat/spip_inclusif_classique"
 >
@@ -11,13 +11,14 @@
 	<nom>SPIP en français inclusif classique</nom>
 	<!-- Un plugin SPIP pour retrouver une langue française naturellement inclusive -->
 
-	<auteur lien="https://contrib.spip.net/RealET">RealET</auteur>
+	<auteur lien="https://www.pyrat.net/">Jacques Pyrat</auteur>
 
 	<copyright>2021-2023</copyright>
 
 	<licence lien="http://www.gnu.org/licenses/gpl-3.0.html">GPL 3</licence>
 
 	<utilise nom="bouspip" />
+	<utilise nom="campagnes" />
 	<utilise nom="contrib" />
 	<utilise nom="dons" />
 	<utilise nom="escal" />
