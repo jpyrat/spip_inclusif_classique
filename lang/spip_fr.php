@@ -6,6 +6,7 @@ if (!defined('_ECRIRE_INC_VERSION')) {
 }
 
 $GLOBALS[$GLOBALS['idx_lang']] = array(
+	'form_prop_enregistre' => 'Votre proposition est enregistrée, elle apparaîtra en ligne après validation par les responsables de ce site.',
 	'info_contact_developpeur' => 'Veuillez contacter un développeur.',
 	'info_installer_ftp' => 'En tant qu’administrateur, vous pouvez installer (par FTP) des fichiers dans le dossier @upload@ pour ensuite les sélectionner directement ici.',
 	'info_nom_non_utilisateurs_connectes' => 'Votre nom n’apparaît pas dans la liste des utilisateurs connectés.',
