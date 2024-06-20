@@ -1,11 +1,7 @@
 <?php
 // This is a SPIP language file  --  Ceci est un fichier langue de SPIP
-// Fichier source, a modifier dans https://git.spip.net/spip/spip.git
-if (!defined('_ECRIRE_INC_VERSION')) {
-	return;
-}
 
-$GLOBALS[$GLOBALS['idx_lang']] = array(
+return [
 	'form_prop_enregistre' => 'Votre proposition est enregistrée, elle apparaîtra en ligne après validation par les responsables de ce site.',
 	'info_contact_developpeur' => 'Veuillez contacter un développeur.',
 	'info_installer_ftp' => 'En tant qu’administrateur, vous pouvez installer (par FTP) des fichiers dans le dossier @upload@ pour ensuite les sélectionner directement ici.',
@@ -24,4 +20,4 @@ $GLOBALS[$GLOBALS['idx_lang']] = array(
 	'texte_inc_meta_1' => 'Le système a rencontré une erreur lors de l’écriture du fichier <code>@fichier@</code>. Veuillez, en tant qu’administrateur du site,',
 	'titre_image_administrateur' => 'Administrateur',
 
-);
+];

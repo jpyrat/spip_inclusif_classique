@@ -1,13 +1,7 @@
 <?php
 // This is a SPIP language file  --  Ceci est un fichier langue de SPIP
-// Fichier source, a modifier dans https://git.spip.net/spip-contrib-squelettes/escal.git
-if (!defined('_ECRIRE_INC_VERSION')) {
-	return;
-}
 
-$GLOBALS[$GLOBALS['idx_lang']] = array(
-
-
+return [
 	'adresse_non' => 'L’auteur n’a pas fourni son adresse e-mail',
 	'affichage_auteur_articles' => 'Affichage du nom de l’auteur des articles',
 	'affichage_nom_auteur' => 'Affichage du nom de l’auteur',
@@ -46,7 +40,6 @@ $GLOBALS[$GLOBALS['idx_lang']] = array(
 	'noisettes_stats_auteurs' => '…nombre d’auteurs',
 	'onglets_rub_auteur' => 'afficher l’auteur des articles',
 	'page_auteur' => 'page de l’auteur',
-	
 	'noisettes_annuaire_visiteur' => 'Couleur pour les visiteurs',
 	'noisettes_identification_visiteur' => 'Afficher le formulaire d’inscription de nouveaux <strong>visiteurs</strong><br>
 			(Il faut avoir coché "Accepter l’inscription de visiteursdu site public" dans l’espace privé : Configuration - Interactivité)',
@@ -55,4 +48,4 @@ $GLOBALS[$GLOBALS['idx_lang']] = array(
 	'noisettes_stats_ligne' => 'Nombre de visiteurs en ligne',
 	'visiteur' => 'visiteur',
 	'visiteurs' => 'visiteurs',
-);
+];

@@ -1,6 +1,5 @@
 <?php
 // This is a SPIP language file  --  Ceci est un fichier langue de SPIP
-// Fichier source, a modifier dans https://git.spip.net/spip/forum.git
 
 return [
 	'avis_connexion_erreur_fichier_cle_manquant_1' => 'L’installation doit être faite par un webmestre avec un backup des clés et son mot de passe',

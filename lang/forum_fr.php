@@ -1,6 +1,5 @@
 <?php
 // This is a SPIP language file  --  Ceci est un fichier langue de SPIP
-// Fichier source, a modifier dans https://git.spip.net/spip/forum.git
 
 return [
 	'bouton_radio_enregistrement_obligatoire' => 'Enregistrement obligatoire (les utilisateurs doivent s’abonner en fournissant leur adresse email avant de pouvoir poster des contributions).',
